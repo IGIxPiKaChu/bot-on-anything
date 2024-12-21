@@ -42,7 +42,7 @@ Supports Linux, MacOS, and Windows systems, and Python must be installed. It is 
 Clone the project code and install dependencies:
 
 ```bash
-git clone https://github.com/zhayujie/bot-on-anything
+git clone https://github.com/IGIxPiKaChu/bot-on-anything.git
 cd bot-on-anything/
 pip3 install -r requirements.txt
 ```
